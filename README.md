@@ -22,7 +22,7 @@ sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libp
 
 按照正常流程来，现在就应该是开始cmake编译了，但是在编译过程中需要从github下载很多包，如果无法在linux上挂梯子，往往都会因为网络问题而编译失败，于是写了个脚本先把所有需要下载的包都下载下来，再放入原本需要下载的地方
 
-网盘链接在这里
+网盘链接在这里 https://pan.baidu.com/s/1-MeaLm_Qx4j6Fo1gJAEOpA?pwd=ugxe
 
 这个是py脚本代码
 
